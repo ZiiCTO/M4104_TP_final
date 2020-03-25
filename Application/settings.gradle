@@ -1,0 +1,2 @@
+rootProject.name='TP final'
+include ':app'
